@@ -17,6 +17,12 @@ Built by transforming the creative, dark-and-lime **Bianca** portfolio design sy
   - **EcoRevive GitHub:** [https://github.com/NaitikSharma7804/EcoRevive](https://github.com/NaitikSharma7804/EcoRevive)
   - **Smart EV Charging Hub GitHub:** [https://github.com/NaitikSharma7804/SMART-EV-CHARGING-MANAGEMENT-SYSTEM](https://github.com/NaitikSharma7804/SMART-EV-CHARGING-MANAGEMENT-SYSTEM)
 
+### 📸 Section Showcase
+
+| Interactive Terminal Hero | Featured Projects & Pipeline | Tech Stack & Skills Grid |
+| :---: | :---: | :---: |
+| ![Hero Terminal](assets/img/hero-preview.png) | ![Featured Projects](assets/img/projects-preview.png) | ![Tech Stack](assets/img/skills-preview.png) |
+
 ---
 
 ## 🎨 Visual Identity & Design System
