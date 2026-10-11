@@ -10,6 +10,7 @@ Built by transforming the creative, dark-and-lime **Bianca** portfolio design sy
 
 ![Portfolio Preview Banner](assets/img/preview.png)
 
+- **Live Website:** [https://naitiksharma-portfolio.vercel.app/](https://naitiksharma-portfolio.vercel.app/)
 - **Local Development Server:** `http://localhost:5500`
 - **Verified GitHub Profile:** [https://github.com/NaitikSharma7804](https://github.com/NaitikSharma7804)
 - **Verified Live Projects:**
