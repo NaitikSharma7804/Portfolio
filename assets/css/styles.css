@@ -619,6 +619,7 @@ textarea:focus-visible {
   align-items: center;
   gap: 0.55rem;
   flex-wrap: wrap;
+  margin-top: 0;
   margin-bottom: 0.85rem;
   font-family: var(--body-font);
   font-size: clamp(1.1rem, 2.2vw, 1.35rem);

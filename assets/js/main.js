@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (typedTarget && typeof Typed !== "undefined") {
     new Typed("#home-typed", {
       strings: [
-        "AI Engineer in the Making",
+        "AI Engineer & Software Developer",
         "Machine Learning Enthusiast",
         "LLM Application Developer",
         "Full-Stack Engineer"
