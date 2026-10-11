@@ -1,0 +1,29 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing & Local Scratch Captures
+/preview.png
+screenshot*.png
+screen_*.png
+desktop_full.png
+full_opt*.png
+test_portfolio.py
+test-full-compare.js
+resume_extracted.txt
+Text Responsive porfolio website Bianca.txt
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Dependencies
+node_modules/
+npm-debug.log*
+
+# Python Cache
+__pycache__/
+*.py[cod]
